@@ -1,0 +1,4 @@
+services:
+    xiranst.db.backup.service:
+        class: Xiranst\Bundle\DataBackupBundle\Service\BackupService
+        arguments: ["@kernel", "@service_container"]

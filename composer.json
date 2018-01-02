@@ -1,0 +1,19 @@
+{
+    "name": "xiranst/databackup-bundle",
+    "description": "Export and import database for Symfony3 Project",
+    "require": {
+        "symfony/symfony": "3.3.*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xiranst",
+            "email": "info@xiranst.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": { "Xiranst\\DataBackupBundle\\": "" }
+    }
+}
