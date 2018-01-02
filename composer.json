@@ -12,8 +12,8 @@
     "require": {
         "symfony/symfony": "3.3.*"
     },
-    "minimum-stability": "dev",
-    "prefer-stable" : true,
+//    "minimum-stability": "dev",
+//    "prefer-stable" : true,
     "autoload": {
         "psr-4": { "Xiranst\\DataBackupBundle\\": "" }
     }
